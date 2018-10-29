@@ -4,9 +4,9 @@
 			"krisfield"
 		]
 	},
-	"myfirstextension-desc": "Learning to make mediawiki extensions",
-	"myfirstextension-i18n-welcome": "Welcome to the localization file of the MyFirstExtension extension.",
-	"myfirstextension-helloworld": "Hello world!",
-	"myfirstextension-helloworld-intro": "Welcome to the \"Hello world\" special page of the MyFirstExtension extension.",
-	"helloworld": "Hello world"
+	"mezaadmin-desc": "Meza Admin Tool",
+	"mezaadmin-i18n-welcome": "Welcome to the localization file of the MezaAdmin extension.",
+	"mezaadmin-mezaadmin": "Meza Admin",
+	"mezaadmin-mezaadmin-intro": "Welcome to the \"Meza Admin\" special page.",
+	"mezaadmin": "Meza Admin"
 }

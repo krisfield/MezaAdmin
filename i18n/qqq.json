@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"krisfield"
+		]
+	},
+	"mezaadmin-desc": "{{desc|name=MezaAdmin|url=https://github.com/krisfield/MezaAdmin }}",
+	"mezaadmin-i18n-welcome": "Used to greet the user when reading the i18n/??.json file.",
+	"mezaadmin-mezaadmin": "Page title of the Meza Admin special page.\n{{Identical|Meza Admin}}",
+	"mezaadmin-mezaadmin-intro": "Text displayed on the MezaAdmin SpecialPage.",
+	"mezaadmin": "Text of the link to the MezaAdmin special page on SpecialPages.\n{{Identical|Meza Admin}}"
+}

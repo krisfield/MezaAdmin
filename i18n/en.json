@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"krisfield"
+		]
+	},
+	"myfirstextension-desc": "Learning to make mediawiki extensions",
+	"myfirstextension-i18n-welcome": "Welcome to the localization file of the MyFirstExtension extension.",
+	"myfirstextension-helloworld": "Hello world!",
+	"myfirstextension-helloworld-intro": "Welcome to the \"Hello world\" special page of the MyFirstExtension extension.",
+	"helloworld": "Hello world"
+}

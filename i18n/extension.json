@@ -1,0 +1,29 @@
+{
+	"name": "MezaAdmin",
+	"version": "0.0.1",
+	"author": [
+		"Kris Field"
+	],
+	"url": "https://github.com/krisfield/MyFirstExtension",
+	"descriptionmsg": "mezaadmin-desc",
+	"license-name": "MIT",
+	"type": "specialpage",
+	"AutoloadClasses": {
+		"SpecialHelloWorld": "specials/SpecialMezaAdmin.php"
+	},
+	"config": {
+		"MezaAdminEnableFoo": true
+	},
+	"ExtensionMessagesFiles": {
+		"MyFirstExtensionAlias": "MezaAdmin.i18n.alias.php"
+	},
+	"MessagesDirs": {
+		"MyFirstExtension": [
+			"i18n"
+		]
+	},
+	"SpecialPages": {
+		"MezaAdmin": "SpecialMezaAdmin"
+	},
+	"manifest_version": 1
+}
